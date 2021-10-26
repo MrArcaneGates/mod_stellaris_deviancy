@@ -1,0 +1,9 @@
+version="0.1"
+tags={
+	"Balance"
+	"Buildings"
+	"Overhaul"
+}
+name="Deviancy++"
+supported_version="2.8.1"
+remote_file_id="2428512443"
